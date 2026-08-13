@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="HHHv-v — 디자인 의도를 이해하는 프론트엔드 개발자">
+  <style>
+    .logo { font-family: 'Helvetica Neue', Arial, system-ui, sans-serif; font-weight: 800; letter-spacing: -2px; }
+    .tag  { font-family: system-ui, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; font-weight: 500; letter-spacing: 0.3px; }
+  </style>
+
+  <!-- generous whitespace: transparent background blends with GitHub light theme -->
+
+  <text x="90" y="150" class="logo" font-size="96" fill="#1B1D23">HHH<tspan fill="#E1573A">v-v</tspan></text>
+
+  <text x="95" y="206" class="tag" font-size="28" fill="#1B1D23" fill-opacity="0.62">디자인 의도를 이해하는 프론트엔드 개발자</text>
+
+  <rect x="96" y="232" width="60" height="6" rx="3" fill="#E1573A"/>
+</svg>
